@@ -1,6 +1,6 @@
 module github.com/dunglas/vulcain
 
-go 1.26
+go 1.26.0
 
 require (
 	github.com/dunglas/httpsfv v1.1.1
@@ -12,7 +12,7 @@ require (
 	github.com/tidwall/gjson v1.19.0
 	github.com/tidwall/sjson v1.2.5
 	go.uber.org/zap v1.28.0
-	golang.org/x/crypto v0.55.0
+	golang.org/x/crypto v0.56.0
 	golang.org/x/net v0.58.0
 )
 
